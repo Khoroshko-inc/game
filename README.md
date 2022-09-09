@@ -1,1 +1,1 @@
-https://Khoroshko-inc.github.io/game/start.html
+https://Khoroshko-inc.github.io/game/Start.html
